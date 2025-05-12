@@ -1,1 +1,1 @@
-## Projeto no VS Code, referente a javascript
+## Projeto no VS Code e Banco de Dados
